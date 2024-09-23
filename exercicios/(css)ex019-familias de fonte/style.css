@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+h1, h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4em;
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+    }
+
+    body{
+        font: italic bolder "work sans", sans-serif;
+    }
+/*ORDEM DA SHORTHAND FONT
+font-style
+font-weight
+font-size
+font-family

@@ -1,0 +1,11 @@
+@charset "UTF-8";
+bpdy{
+    background-color: darkturquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    color: black;
+    background-color: white;
+    font-size: large;
+}
